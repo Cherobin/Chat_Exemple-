@@ -9,6 +9,6 @@ and line 6 var socketio = io.connect("YOUR_IP:1337");<br>
 
 <br> 
 
-Enter in folder node, execute node main.js 
+Enter in folder node, execute node main.js <br>
 access 127.0.0.1:1337 to view the chat
 
